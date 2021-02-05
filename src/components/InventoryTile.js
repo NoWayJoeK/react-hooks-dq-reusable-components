@@ -1,6 +1,7 @@
 import React from "react";
 
 // Study me! What information do I require to work?
+// potion id, name, image_urlm sell, children 
 // How am I the same as ShopTile? How am I different?
 
 function InventoryTile({ potion, sell, children }) {

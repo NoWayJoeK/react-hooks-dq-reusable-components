@@ -1,6 +1,7 @@
 import React from "react";
 
 // Study me! What information do I require to work?
+// addToInventory onClick function, children
 // How am I the same as InventoryTile? How am I different?
 
 function ShopTile({ potion, addToInventory, children }) {
